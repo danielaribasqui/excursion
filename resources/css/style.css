@@ -1,0 +1,85 @@
+body {
+  background-color: black;
+  margin: 0px 0px 0px 0px;
+}
+
+h1 {
+  font-family: Verdana;
+  font-size: 70px;
+  color: white;
+  line-height: 75px;
+  text-align: center;
+  padding-top: 80px;
+  margin: 0px 0px 0px 0px;
+
+}
+
+h3 {
+
+  font-family: Verdana;
+  font-size: 16px;
+  text-align: center;
+  color: aquamarine;
+  padding: 10px;
+
+
+}
+
+
+.button {
+  margin: 0 auto;
+  width: 450px;
+  outline-style: solid;
+  outline-color: aquamarine;
+
+}
+
+p {
+  font-family: Verdana;
+  color: gray;
+  float: right;
+  padding: 25px;
+}
+
+.header h1 {
+  font-family: Verdana;
+  font-size: 70px;
+  color: white;
+  line-height: 75px;
+  text-align: center;
+  padding-top: 20px;
+
+}
+
+h2 {
+  font-family: Verdana;
+  color: gray;
+  font-size: 21px;
+  text-align: center;
+  font-weight: lighter;
+
+}
+
+.header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/camp.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 900px;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 45px;
+  padding-top: 70px;
+
+}
+
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+
+}
